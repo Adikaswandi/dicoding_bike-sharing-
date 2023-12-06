@@ -3,6 +3,7 @@
 ## Setup run streamlit
 [Screenshot-2023-12-06-145516.png](https://postimg.cc/rDmMZmTk)
 
+[![Screenshot-2023-12-06-145516.png](https://i.postimg.cc/sgPxXQ0v/Screenshot-2023-12-06-145516.png)](https://postimg.cc/rDmMZmTk)
 ```
 run 
 
